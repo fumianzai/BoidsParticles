@@ -1,9 +1,9 @@
-ControlStrangeAttractor
+BoidsParticles
 =======================
 
 ###NOTE :  
 this is C4D project.  
-A Python effector for creating strange attractor animation in CINEMA 4D.  
+this is a study of Boids with Thinking Particles. 
 
 ###VIDEO:  
-https://vimeo.com/99462444
+https://vimeo.com/103133298
