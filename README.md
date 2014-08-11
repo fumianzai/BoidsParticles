@@ -10,4 +10,4 @@ this is a study of Boids with Thinking Particles.
 https://vimeo.com/103133298
 
 ###DOWNLOAD:  
-####[Project Date Download](https://github.com/fumianzai/ControlStrangeAttractor/archive/master.zip)
+####[Project Date Download](https://github.com/fumianzai/BoidsParticles/archive/master.zip)
